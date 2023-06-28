@@ -7,3 +7,5 @@ Through a series of data visualization techniques, the project uncovers importan
 Furthermore, the project incorporates statistical analysis methods to identify correlations between different variables, such as booking preferences, or cancellation rates and specific time periods. These insights enable hotel owners and managers to optimize their marketing strategies, allocate resources efficiently, and tailor their services to meet customer demands.
 
 In summary, the hotel booking data analysis project provides a comprehensive analysis of customer booking patterns, preferences, and trends. By leveraging data analytics techniques, it empowers hoteliers with actionable insights to enhance customer satisfaction, improve operational efficiency, and ultimately drive business growth.
+
+Report of Hotel Booking analysis is attached with the files.
