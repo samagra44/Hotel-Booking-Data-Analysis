@@ -10,10 +10,3 @@ In summary, the hotel booking data analysis project provides a comprehensive ana
 
 Report of Hotel Booking analysis is attached with the files.
 
-![ss1](https://github.com/samagra44/Hotel-Booking-Data-Analysis/assets/77968722/e67006ae-3595-44c6-8722-29b2a21905eb)
-![ss2](https://github.com/samagra44/Hotel-Booking-Data-Analysis/assets/77968722/a6104693-6311-4275-a7f1-f06230235f5e)
-![ss3](https://github.com/samagra44/Hotel-Booking-Data-Analysis/assets/77968722/c56cdcc9-0b7b-49d6-a6ef-cca0c233784f)
-![ss4](https://github.com/samagra44/Hotel-Booking-Data-Analysis/assets/77968722/2f803c0a-9206-4b16-a861-e009dce3d2f6)
-![ss5](https://github.com/samagra44/Hotel-Booking-Data-Analysis/assets/77968722/62a3ea2f-c9a4-4139-8b3e-7beb51e92549)
-![ss6](https://github.com/samagra44/Hotel-Booking-Data-Analysis/assets/77968722/b731c3f2-0c39-4c65-bd98-24a1fa0079d1)
-![ss7](https://github.com/samagra44/Hotel-Booking-Data-Analysis/assets/77968722/b16b8f5f-0a27-469e-b42d-b703c3a6db95)
